@@ -33,5 +33,5 @@
 - StricMode
     - Ferramentas para checar possíveis más práticas no código React. Caso encontre potenciais problemas, emite ***Warnings*** (apenas no ambiente de desenvolvimento).
         - Exemplos de checagens de erros?
-- Componentes em Classes 
-💡 É possível criar atributos (variáveis) na sua classe e utilizá-los dentro do seu HTML
+- Componentes em Classes
+      💡 É possível criar atributos (variáveis) na sua classe e utilizá-los dentro do seu HTML
