@@ -18,7 +18,7 @@
 
 ### Como o ReactJS funciona?
 
-- **Compiilers** (compilador): Conversão de código p/ o reconhecimento do navegador  → tipo: ***Babel*** é ******compilador usado no React.
+- **Compiilers** (compilador): Conversão de código p/ o reconhecimento do navegador  → tipo: ***Babel*** é compilador usado no React.
 - **Bundlers** (pacotes)**:** é um ***Webpack*** que faz a junção de ****otimizam e processam múltiplos arquivos (JavaScript, CSS, imagens) e converte em um único arquivo pro navegador
 - **Rendering Patterns** (Padrões de Renderização): referem-se às diferentes estratégias de como e onde o conteúdo de uma página web é transformado em HTML e entregue ao navegador do usuário.
 
